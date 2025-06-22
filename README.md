@@ -1,15 +1,16 @@
 <!-- 
   README for Prithvi's GitHub Profile
-  Created using GPRM-inspired design and personalized for maximum impact.
 -->
 
 <div align="center">
-  <h1>👋 Hi There, I'm Prithvi</h1>
+  <h1>Hey there, I'm <span style="color:#fca311;">Prithvi</span> 👋</h1>
   <p>
     <strong>🌱 Passionate Learner | 💻 Developer in Making | 🔍 Explorer of Tech</strong>
   </p>
 
-  <img src="https://via.placeholder.com/600x200?text=Welcome+to+My+GitHub" alt="Banner" />
+  
+
+  <img src="[https://via.placeholder.com/600x200?text=Welcome+to+My+GitHub](https://media.licdn.com/dms/image/v2/D5616AQG_4uTK27i61g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687760833336?e=1756339200&v=beta&t=bnj0vjCPLcoznuU9biBJycI1RCqW56uQG174xddK6XI)" alt="Banner" />
 </div>
 
 <br />
@@ -17,11 +18,13 @@
 ## 💫 About Me 
 
 Hi, I’m **@Prithvi2004**  
-👀 I’m interested in learning new technologies.  
-🌱 I’m currently learning **TypeScript**, Docker, Kubernetes, Testing, and Databases.  
-💞️ I’m looking to collaborate on any project related to development.
+- 🎓 Computer Science student, always curious to explore and apply new tech.
+- 👀 I'm passionate about learning new technologies and building cool stuff. 
+- 🔧 Working on scalable full-stack projects & creative data-driven apps.
+- 🤝 Open to collaborations on impactful development projects.
+- 🎯 Mission: Build, learn, repeat — with elegance and efficiency.
 
-📫 How to reach me: [madivadapr@gmail.com](mailto:madivadapr@gmail.com)
+
 
 ---
 
@@ -29,6 +32,7 @@ Hi, I’m **@Prithvi2004**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/madivada-prithvi-501005270])
 
+📫 How to reach me: [madivadapr@gmail.com](mailto:madivadapr@gmail.com)
 ---
 
 ## 💻 Tech Stack
@@ -87,17 +91,8 @@ Hi, I’m **@Prithvi2004**
 
 ---
 
-### ✍️ Random Dev Quote   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
 
 > Proudly created with love by Prithvi 👨‍💻  
 > Let’s build something great together!  
 
 ---
-
-<!-- Footer -->
-<div align="center">
-  <sub>Made with ❤️ using GitHub Profile ReadMe Generator inspired by GPRM</sub>
-</div>
