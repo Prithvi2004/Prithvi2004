@@ -10,7 +10,7 @@
   </p>
 
   <img 
-    src="https://media.licdn.com/dms/image/v2/D5616AQG_4uTK27i61g/profile-displaybackgroundimage-shrink_350_1400/0/1687760833336?e=1756339200&v=beta&t=bnj0vjCPLcoznuU9biBJycI1RCqW56uQG174xddK6XI" 
+    src="https://media.licdn.com/dms/image/v2/D5616AQG_4uTK27i61g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687760833336?e=1756339200&v=beta&t=bnj0vjCPLcoznuU9biBJycI1RCqW56uQG174xddK6XI" 
     alt="Welcome Banner" 
     style="max-width: 100%; border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" 
   />
@@ -98,11 +98,9 @@ Hi, I’m **@Prithvi2004**
   <a href="https://github.com/Prithvi2004"> 
     <img src="https://github-readme-stats.vercel.app/api?username=Prithvi2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </a>
+  <br />
   <a href="https://github.com/Prithvi2004">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithvi2004&theme=dark&hide_border=true" alt="Streak Stats" />
-  </a>
-  <a href="https://github.com/Prithvi2004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi2004&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
 </div>
 
