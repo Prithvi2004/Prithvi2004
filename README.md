@@ -1,82 +1,136 @@
 <!-- 
-  REMEMBER TO REPLACE ALL PLACEHOLDERS LIKE [YOUR_USERNAME], [PROJECT_NAME], ETC.
+  README for Prithvi's GitHub Profile
+  Created using GPRM-inspired design and personalized for maximum impact.
 -->
 
 <div align="center">
   <h1>👋 Hi There, I'm Prithvi</h1>
   <p>
-    <strong>💻 Software Developer | 🧠 AI/ML Enthusiast | 🌱 Open Source Contributor</strong>
+    <strong>🌱 Passionate Learner | 💻 Developer in Making | 🔍 Explorer of Tech</strong>
   </p>
 
-  <img src="https://via.placeholder.com/500x200?text=Personal+Banner+(Optional)" alt="Banner" />
+  <img src="https://via.placeholder.com/600x200?text=Welcome+to+My+GitHub" alt="Banner" />
 </div>
 
 <br />
 
-### 🔧 Skills & Technologies 
+## 💫 About Me 
 
-<sub>Here are some of the technologies I work with:</sub>
+Hi, I’m **@Prithvi2004**  
+👀 I’m interested in learning new technologies.  
+🌱 I’m currently learning **TypeScript**, Docker, Kubernetes, Testing, and Databases.  
+💞️ I’m looking to collaborate on any project related to development.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,go&perline=5" />
-</p>
-
-| Frontend | Backend | Tools | Cloud |
-|----------|---------|-------|-------|
-| HTML/CSS, JavaScript, React, Vue.js | Node.js, Django, Flask, Express | Git, Docker, Postman, VS Code | AWS, Google Cloud, Netlify, Heroku |
+📫 How to reach me: [madivadapr@gmail.com](mailto:madivadapr@gmail.com)
 
 ---
 
-### 🎯 My Goals 
-- 📚 Learn new technologies every month  
-- 💼 Contribute to impactful open-source projects  
-- 🏆 Build cool stuff that solves real-world problems  
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/madivada-prithvi-501005270])
 
 ---
 
-### 📦 Featured Projects
+## 💻 Tech Stack
 
-#### 🎨 [Project One - Portfolio Website](https://example.com) 
-> Built with React and TailwindCSS — showcases my work and skills.
-- Responsive design
-- SEO optimized
-- Interactive UI components
-
-#### 🤖 [Project Two - ML Model Classifier](https://example.com) 
-> Python-based machine learning model for classification tasks.
-- Trained on custom datasets
-- Deployed using FastAPI
-- Achieved 97% accuracy
-
-> ⭐ Feel free to check out more of my work on the [Projects Page](https://yourwebsite.com/projects) 
+### **Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-f2c744.svg?style=for-the-badge&logo=mysql&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+### **Frameworks & Libraries** 
+![Django](https://img.shields.io/badge/django-%23134700.svg?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### **Frontend Technologies** 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### **Databases & Cloud** 
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/supabase-%2331245C.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### **Dev Tools & Version Control** 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### **Deployment Platforms** 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+### **Design Tools** 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+### **Data Analysis & Visualization** 
+![Power BI](https://img.shields.io/badge/Power%20BI-2962FF?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23016895.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E976C0?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### **AI / ML & API Development Tools** 
+![Google Gemini API](https://img.shields.io/badge/Gemini_API-F2994A.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Crew AI](https://img.shields.io/badge/Crew_AI-000000.svg?style=for-the-badge&logo=crew-ai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats 
 
 <div align="center">
   <a href="https://github.com/Prithvi2004"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Prithvi2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Prithvi2004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dracula" alt="Top Langs" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithvi2004&theme=dark&hide_border=true" alt="Streak Stats" />
+  </a>
+  <a href="https://github.com/Prithvi2004">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi2004&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-### 🌍 Connect With Me 
-
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://linkedin.com/in/yourprofile)   
-[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/yourhandle)   
-[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://instagram.com/yourhandle)   
-📧 Email: your.email@example.com  
-</div>
+### ✍️ Random Dev Quote   
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 
-### 📝 Let's Collaborate!
+> Proudly created with love by Prithvi 👨‍💻  
+> Let’s build something great together!  
 
-I'm always open to new opportunities, collaborations, or just a friendly chat about tech. Don't hesitate to reach out!
+---
 
-> Made with ❤️ by [Your Name]
+<!-- Footer -->
+<div align="center">
+  <sub>Made with ❤️ using GitHub Profile ReadMe Generator inspired by GPRM</sub>
+</div>
