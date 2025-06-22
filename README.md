@@ -4,16 +4,20 @@
 
 <div align="center">
   <h1>Hey there, I'm <span style="color:#fca311;">Prithvi</span> 👋</h1>
+  
   <p>
-    <strong>🌱 Passionate Learner | 💻 Developer in Making | 🔍 Explorer of Tech</strong>
+    <strong>🌱 Passionate Learner | 💻 Developer in Making | 🔍 Tech Explorer</strong>
   </p>
 
-  
-
-  <img src="[https://via.placeholder.com/600x200?text=Welcome+to+My+GitHub](https://media.licdn.com/dms/image/v2/D5616AQG_4uTK27i61g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687760833336?e=1756339200&v=beta&t=bnj0vjCPLcoznuU9biBJycI1RCqW56uQG174xddK6XI)" alt="Banner" />
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D5616AQG_4uTK27i61g/profile-displaybackgroundimage-shrink_350_1400/0/1687760833336?e=1756339200&v=beta&t=bnj0vjCPLcoznuU9biBJycI1RCqW56uQG174xddK6XI" 
+    alt="Welcome Banner" 
+    style="max-width: 100%; border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" 
+  />
 </div>
 
 <br />
+
 
 ## 💫 About Me 
 
@@ -28,11 +32,24 @@ Hi, I’m **@Prithvi2004**
 
 ---
 
-## 🌐 Socials
+## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/madivada-prithvi-501005270])
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/madivada-prithvi-501005270" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:madivadapr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-📫 How to reach me: [madivadapr@gmail.com](mailto:madivadapr@gmail.com)
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Let's+connect+and+create+magic!;Feel+free+to+reach+out+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 💻 Tech Stack
